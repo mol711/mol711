@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi I'm moll711 -もる- 👋
+I'm a college student in Japan, and I'm planning to learn as much as I can.
+I'm thinking about pursuing a career in AI in the future.
+If you take a look at my repository and have any advice, I'd really appreciate it if you could let me know.
 
 <!--
 **moll711/moll711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
