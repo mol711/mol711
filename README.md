@@ -1,7 +1,14 @@
-## Hi I'm mol711 -もる- 👋
-I'm a college student in Japan, and I'm planning to learn as much as I can.  
-I'm thinking about pursuing a career in AI in the future.  
-If you take a look at my repository and have any advice, I'd really appreciate it if you could let me know.  
+##　Hi, I'm mol711 -もる- 👋
+30卒の大学生です。
+普段は、Pythonを中心にAI関連のプログラミングをしています。
+
+大学に入ってからは、興味を持った面白そうなことに幅広く挑戦中です。
+取り組んでいることはそのときどきで変わりますが、楽しみながら学んでいます。
+
+- 💻 Interested in: AI
+- 🌱 Learning: K3s, Docker, JavaScript, Python
+- 📫 Reach me: [Email](hamasho070626@gmail.com) / [X](https://x.com/mol0711)
+
 
 <!--
 **moll711/moll711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
